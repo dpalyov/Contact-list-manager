@@ -1,0 +1,8 @@
+.viewIcon {
+    padding: 6px 0;
+}
+
+.list-item:hover {
+    cursor: pointer;
+    background: rgb(245, 242, 242);
+}
